@@ -8,7 +8,7 @@
 
 >👨🏻‍💻 Information Technology Student
 
-[![Luan Mateus Github Stats](https://github-readme-stats.vercel.app/api?username=luanmateuz&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/luanmateuz)
+[![Luan Mateus Github Stats](https://github-readme-stats.vercel.app/api?username=luanmateuz&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/luanmateuz)
 
 ## About me 
 
