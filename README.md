@@ -12,7 +12,7 @@
 
 ## About me 
 
-⚡️ I'm 20, I love computers and programming, and next year I intend to study Computer Science.
+⚡️ I'm 21, I love computers and programming, and next year I intend to study Computer Science.
 
 
 - 🌎 I'm from Brasilia - Brazil
@@ -25,7 +25,7 @@
 
 - ☕️ Java
 - ⚡️ Javascript
-- 🐘 PHP
+- 🐍 Python
 - 🐬 MySQL
 - 🎲 Data Structures
 - ⚔️ Competitive Programming
