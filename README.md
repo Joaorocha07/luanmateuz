@@ -12,7 +12,7 @@
 
 ## About me 
 
-⚡️ I'm 21, I love computers and programming, and next year I intend to study Computer Science.
+⚡️ I'm 21, I love computers and programming, and study Computer Science on IFB.
 
 
 - 🌎 I'm from Brasilia - Brazil
@@ -23,9 +23,8 @@
 
 📝 Knowledge is never too much, these are the content I'm focused on at the moment.
 
+- ⚡️ C
 - ☕️ Java
-- ⚡️ Javascript
-- 🐍 Python
 - 🐬 MySQL
 - 🎲 Data Structures
 - ⚔️ Competitive Programming
